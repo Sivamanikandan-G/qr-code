@@ -14,10 +14,11 @@
 }
 
 .card {
-    max-width: 260px;
+    max-width: 280px;
     padding: 1em;
     border-radius: 1.5em;
     background-color: rgb(255, 255, 255);
+    box-shadow: 10px 10px 30px 1px rgba(169, 169, 169, 0.364);
 }
 
 .qr_img img {
@@ -32,9 +33,10 @@
 
 .content h3 {
     padding-bottom: 1em;
+    color: #1A4870;
 }
 
 .content small {
     font-size: 14px;
-    color: rgba(103, 103, 103, 0.879);
+    color: #7F8487;
 }
